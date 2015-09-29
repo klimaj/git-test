@@ -1,8 +1,14 @@
+<<<<<<< HEAD
 Changed top line
 
 A change to master -k
 
 I want to add to the top line
+=======
+TOP LINE TOP LINE
+
+I want to add to the top line -rr
+>>>>>>> exp
 
 This is a test!
 
