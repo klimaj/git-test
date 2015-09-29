@@ -1,4 +1,6 @@
-A change to master
+Changed top line
+
+A change to master -k
 
 I want to add to the top line
 
